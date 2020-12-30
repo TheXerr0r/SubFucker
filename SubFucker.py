@@ -158,11 +158,11 @@ class SubFucker:
     def banner():
         print(col.cyan + """
         _________________________
-    ( SubFucker Is Running Now )
-        [!] Do Not Press CTL+C
+       ( SubFucker Is Running Now )
+          [!] Do Not Press CTL+C
         -------------------------
             o   ^__^                    | Created By TheXerr0r & MrJico
-            o  (oo)\_______             | Scorpion Shiled Hackers Team - <Scorpion-Shield.Com>
+             o  (oo)\_______            | Scorpion Shiled Hackers Team - <Scorpion-Shield.Com>
                 (__)\       )\/\        | Security is Our Game...
                     ||----w |
                     ||     ||  {v1.0.1}
