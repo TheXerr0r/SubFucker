@@ -4,7 +4,7 @@ SubFUcker is a tool desinged to help bughunters enumirate subdomain statuscodes.
 You can use this tool when you want to test a target and that target has more than 1000 subdomains or 
 more to get status codes and http schema of the subdomains without needing to open them manualy 
 
-![alt tag](https://github.com/TheXerr0r/SubFucker/blob/main/SubFuckerImage.png)
+![alt tag](https://github.com/TheXerr0r/SubFucker/blob/main/SubFuckerScreenShoot.png)
 
 # Usage
 
