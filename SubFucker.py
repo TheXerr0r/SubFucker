@@ -28,7 +28,6 @@ col = colors()
 
 class SubFucker:
     def __init__(self, inputfile, outfile, tn):
-        #self.banner()
         self.tn = tn
         self.inputfile = inputfile
         self.outfile = outfile
@@ -41,11 +40,13 @@ class SubFucker:
         with open(self.outfile, 'a') as f:
             content = self.status_success
             for lines in content:
-                f.write(f"{lines.strip()}\n")
+                if lines:
+                    f.write(f"{lines.strip()}\n")
         with open("All_subs.txt", 'a') as allSubs:
             content = self.status_success + self.all_status
             for lin3 in content:
-                allSubs.write(f"{lin3.strip()}\n")
+                if lin3:
+                    allSubs.write(f"{lin3.strip()}\n")
 
     def parce(self, url):
         headers = {
