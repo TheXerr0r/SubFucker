@@ -166,7 +166,7 @@ class SubFucker:
              o  (oo)\_______            | Scorpion Shiled Hackers Team - <Scorpion-Shield.Com>
                 (__)\       )\/\        | Security is Our Game...
                     ||----w |
-                    ||     ||  {v1.0.1}
+                    ||     ||  {v1.0.2}
         """ + Style.RESET_ALL)
 
     @staticmethod
