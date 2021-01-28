@@ -19,8 +19,8 @@ more to get status codes and http schema of the subdomains without needing to op
 ## or
 - python3 -m pip install SubFucker
 
-#YouTube Video Introduction
-![url](https://youtu.be/96_0hQGqrTA)
+# YouTube Video Introduction
+https://youtu.be/96_0hQGqrTA
 
 ![bitcoin](https://image.ibb.co/i4ES3U/bc.png)
 
