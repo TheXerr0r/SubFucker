@@ -21,12 +21,3 @@ more to get status codes and http schema of the subdomains without needing to op
 
 # YouTube Introduction Video
 https://youtu.be/96_0hQGqrTA
-
-![bitcoin](https://image.ibb.co/i4ES3U/bc.png)
-
-![bitcoin](https://raw.githubusercontent.com/ehs4nnn/EY-Console/master/BITCOIN%20QR.png)
-                 
- If You Want To See Our Private Tools, Please Send Your Donates To Montivate Us Publish Our Private Tool :)
- 
- 
- BitCoin Address: 1NZtHATWTyzmb1PghFrvwDDmVUCfCLNQWm
